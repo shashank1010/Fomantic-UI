@@ -11,7 +11,7 @@
       "packaged": "../src/assets/semantic/site/",
       "uncompressed": "dist/components/",
       "compressed": "dist/components/",
-      "themes": "dist/themes/"
+      "themes": "../src/assets/semantic/themes"
     },
     "clean": "dist/"
   },
